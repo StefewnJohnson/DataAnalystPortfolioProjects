@@ -52,7 +52,7 @@ Group by Location
 order by TotalDeathCount desc
 
 
--- LET'S BREAK THINGS DOWN BY CONTINENT
+-- BREAKING THINGS DOWN BY CONTINENT
 
 
 -- Showing contintents with the highest death count per population
